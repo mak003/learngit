@@ -1,7 +1,12 @@
-# Byte-compiled / optimized / DLL files
+#Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+#windows:
+Thumbs.db
+ehthum.db
+Desktop.ini
 
 # C extensions
 *.so
